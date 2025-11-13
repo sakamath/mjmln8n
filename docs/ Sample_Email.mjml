@@ -1,0 +1,104 @@
+```xml
+<mjml>
+  <mj-body width="600px" background-color="#ffffff" >
+    <!-- Orange header with ICICI Bank logo -->
+    <mj-section background-color="#ee7b11" padding="16px 0 8px 0">
+      <mj-column>
+        <mj-image
+          src="https://placehold.co/138x36?text=ICICI+Bank&font=arial&bg=bb421f&color=ffffff"
+          alt="ICICI Bank"
+          width="138px"
+          padding="0"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Banner orange background with image and text on top -->
+    <mj-section background-color="#ee7b11" padding="8px 20px 16px 20px">
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="20px"
+          font-weight="700"
+          color="#7a0b0c"
+          background-color="#ffffff"
+          padding="6px 10px"
+          border-radius="20px"
+          line-height="1"
+          font-family="Arial, sans-serif"
+          >
+          NRI Mortgage Bulletin
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Main content image below the title -->
+    <mj-section padding="0 0 16px 0" background-color="#ee7b11">
+      <mj-column>
+        <mj-image
+          src="https://placehold.co/600x300?text=Couple+on+floor+with+phones&font=arial"
+          alt="Couple Sitting on Floor"
+          padding="0"
+          fluid-on-mobile="true"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- White background content area with heading -->
+    <mj-section background-color="#ffffff" padding="0 20px 20px 20px">
+      <mj-column>
+        <mj-text
+          background-color="#f98d50"
+          color="#ffffff"
+          font-weight="700"
+          font-family="Arial, sans-serif"
+          font-size="16px"
+          padding="8px 12px"
+          border-radius="4px"
+          >
+          Your Mortgage Loan Options
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Body text content -->
+    <mj-section background-color="#ffffff" padding="0 20px 20px 20px">
+      <mj-column>
+        <mj-text
+          color="#000000"
+          font-family="Arial, sans-serif"
+          font-size="14px"
+          line-height="20px"
+          padding="0"
+        >
+          As a Non-Resident Indian (NRI) or an Overseas Citizen of India (OCI), you can avail both
+          <strong style="color:#b11b1b;"> Home Loan </strong>and <strong style="color:#b11b1b;">Non-Home Loan</strong> solutions in India to meet your funding requirements:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Checklist items with bold parts -->
+    <mj-section background-color="#ffffff" padding="0 40px 40px 40px">
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-size="14px" line-height="20px" padding="0" color="#000000">
+          <p style="margin:8px 0 8px 0;">
+            ☑ Buy a <strong>residential property</strong> with a Home Loan
+          </p>
+          <p style="margin:8px 0 8px 0;">
+            ☑ Grow your business with a <strong>Commercial Property Loan</strong>
+          </p>
+          <p style="margin:8px 0 8px 0;">
+            ☑ Fulfil personal or business needs with a <strong>Loan Against Property</strong>
+          </p>
+          <p style="margin:8px 0 8px 0;">
+            ☑ <strong>Transfer</strong> your existing loan to ICICI Bank and save on your EMIs
+          </p>
+          <p style="margin:8px 0 8px 0;">
+            ☑ Avail a <strong>Top-Up Loan</strong> on your existing loan for extra funds
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+```
